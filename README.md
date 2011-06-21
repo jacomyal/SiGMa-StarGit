@@ -2,4 +2,4 @@
 
 *SiGMa-StarGit* is the Flash graph visualization tool in [Stargit](http://stargit.net/#github).
 
-This project is under the [*MIT license*](http://github.com/jacomyal/SiGMa-StarGit/license.txt).
+This project is under the [*MIT license*](http://github.com/jacomyal/SiGMa-StarGit/blob/master/license.txt).
